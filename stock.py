@@ -10,7 +10,7 @@ import json
 import talib
 from talib import abstract
 from decimal import *
-
+#
 
 
 def crawl_price(date):
